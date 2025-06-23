@@ -33,8 +33,8 @@
 ---
 
 ### 📊 GitHub Stats:
-![Amanuel's GitHub stats](https://github-readme-stats.vercel.app/api?username=amanuel-fikadu&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=amanuel-fikadu&layout=compact&theme=radical)
+![Amanuel's GitHub stats](https://github-readme-stats.vercel.app/api?username=aman-149&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aman-149&layout=compact&theme=radical)
 
 ---
 
