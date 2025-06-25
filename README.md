@@ -1,7 +1,7 @@
 👋Hi, there
 
 <h1 align="center">Hi 👋, I'm Amanuel Fikadu</h1>
-<h3 align="center">A passionate Software Engineering student from Ethiopia 🇪🇹</h3>
+<h3 align="center">A passionate Software Engineering student </h3>
 
 - 🌱 I’m currently learning **Full Stack Web Development** and **Machine Learning**  
 - 💻 I enjoy building full-stack projects and automating tasks using **Python** and **JavaScript**  
