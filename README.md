@@ -35,6 +35,10 @@
 )
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aman-149&layout=compact&theme=radical)
 
+[![Image 1](https://camo.githubusercontent.com/260a1e1075970bbb7933852b0f5578908230e8251a4ff1385e918584b4e1afaf/...)](https://github.com/Aman-149)
+[![Image 2](https://camo.githubusercontent.com/6c58ffa88976c5da2a21dece72cdacea2a72d17c706164073eaf58dcb87bd944/...)](https://github.com/Aman-149)
+[![Image 3](https://camo.githubusercontent.com/4a00c60c653470bc95fa1ffbefa334773db66e3cd634676788c95de2293603f8/...)](https://github.com/Aman-149)
+
 ---
 
 ### 📫 Connect with Me:
