@@ -28,11 +28,10 @@
 
 ## About Me
 
-Hey! I'm **Amanuel**, a Software Engineering student based in **Addis Ababa, Ethiopia** 🇪🇹.
+Hey! I'm **Amanuel**, a Software Engineering student.
 
-I'm currently co-building **Aurarise** — a SaaS e-learning platform — while deepening my skills in full-stack development and machine learning. I care about clean code, thoughtful architecture, and building things that actually solve problems.
 
-- 🔭 Building a SaaS e-learning platform (Aurarise)
+- 🔭 Building a SaaS e-learning platform
 - 🌱 Learning Full Stack Web Dev + Machine Learning
 - 🤝 Open to collaborations, internships, and freelance work
 - 💬 Ask me about Python, Django, React, or anything full-stack
