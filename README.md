@@ -1,7 +1,10 @@
 <div align="center">
 
+<!-- Top Wave -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=160&section=header&text=Amanuel%20Fikadu&fontSize=38&fontColor=fff&animation=twinkling&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20ML%20Enthusiast&descAlignY=58&descSize=15" width="100%"/>
+
 <!-- Typing Animation -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=6C63FF&center=true&vCenter=true&random=false&width=600&lines=Full+Stack+Web+Developer;Machine+Learning+Explorer;Open+Source+Contributor;Always+Learning+Something+New" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=6C63FF&center=true&vCenter=true&random=false&width=600&lines=Full+Stack+Web+Developer;Machine+Learning+Explorer;Open+Source+Contributor;Always+Learning+Something+New" alt="Typing SVG" />
 
 <br/>
 
@@ -74,7 +77,7 @@ I'm currently co-building **Aurarise** — a SaaS e-learning platform — while 
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=aman-149&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" height="170"/>
+<img src="https://github-readme-stats.vercel.app/api?username=aman-149&show_icons=true&theme=tokyonight&hide_border=true&hide=contribs&count_private=false" height="170"/>
 &nbsp;
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aman-149&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="170"/>
 
@@ -87,5 +90,8 @@ I'm currently co-building **Aurarise** — a SaaS e-learning platform — while 
 ---
 
 <div align="center">
-<sub>Let's build something great together.</sub>
+
+<!-- Bottom Wave -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%"/>
+
 </div>
