@@ -31,7 +31,6 @@
 Hey! I'm **Amanuel**, a Software Engineering student.
 
 
-- 🔭 Building a SaaS e-learning platform
 - 🌱 Learning Full Stack Web Dev + Machine Learning
 - 🤝 Open to collaborations, internships, and freelance work
 - 💬 Ask me about Python, Django, React, or anything full-stack
